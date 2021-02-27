@@ -55,7 +55,7 @@ html:
     search:
       - "Lots of berries—some you didn’t know!"
       - "There are lots of berries in many different sizes"
-  - path: "berries/blueberries.html"
+  - path: "berries/blueberries/index.html"
     has:
       - "header > strong"
       - 'header nav li a[href="../index.html"]'
